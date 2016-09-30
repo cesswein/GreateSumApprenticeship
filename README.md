@@ -1,0 +1,2 @@
+# GreateSumApprenticeship
+Apprenticeship code
